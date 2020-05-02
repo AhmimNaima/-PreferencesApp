@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Setting and Preferences</string>
+    <string name="app_import">Import</string>
+    <string name="app_gallery">Gallery</string>
+    <string name="app_slideshow">Slideshow</string>
+    <string name="app_tools">Settings</string>
+
+    <string name="navdemo">Setting and Preferences Full Demo</string>
+    <string name="gallery">This is GALLERY Activity</string>
+    <string name="fileimport">This is FILE IMPORT Activity</string>
+    <string name="slideshow">This is SLIDE SHOW Activity</string>
+
+    <string name="action_settings">settings</string>
+
+    <string name="navigation_drawer_open">Open Preferences</string>
+    <string name="navigation_drawer_close">Close Preferences</string>
+</resources>
